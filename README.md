@@ -2,7 +2,7 @@
 ## Name:Sivamalaich Chelvan T
 ## Reg.no:212225100051
 ## Program:
-#index.html:
+# index.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -59,7 +59,7 @@
 </body>
 </html>
 ```
-#style.css:
+# style.css:
 ```
 *{
     margin:0;
