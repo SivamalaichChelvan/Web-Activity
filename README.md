@@ -1,8 +1,8 @@
-## Web-Activity
+# Web-Activity
 ## Name:Sivamalaich Chelvan T
 ## Reg.no:212225100051
 ## Program:
-# index.html:
+### index.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -59,7 +59,7 @@
 </body>
 </html>
 ```
-# style.css:
+### style.css:
 ```
 *{
     margin:0;
@@ -185,5 +185,5 @@ h1{
 
 }
 ```
-# Output:
+## Output:
 <img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/e8813264-a9e6-44e7-a88e-cadb25a224f1" />
